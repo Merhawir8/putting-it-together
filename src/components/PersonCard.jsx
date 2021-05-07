@@ -34,4 +34,3 @@ class PersonCard extends Component {
     
 export default PersonCard;
 
-// {this.setState({age:this.props.age})}
